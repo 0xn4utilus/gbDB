@@ -1,0 +1,8 @@
+﻿Date DATE()
+Country_code CHAR(5)
+Country VARCHAR(100)
+WHO_region VARCHAR(10)
+New_cases BIGINT()
+Cumulative_cases BIGINT()
+New_deaths BIGINT()
+Cumulative_deaths BIGINT()

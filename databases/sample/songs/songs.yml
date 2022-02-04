@@ -1,0 +1,4 @@
+Title VARCHAR(100)
+Artist VARCHAR(100)
+Genre VARCHAR(10)
+Rank INT()

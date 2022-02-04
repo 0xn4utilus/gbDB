@@ -1,0 +1,6 @@
+Name CHAR(255)
+Class CHAR(255)
+Section CHAR(255)
+DOB DATE()
+TotalMarks INT()
+Grade ENUM("A","B","C","D","F")
